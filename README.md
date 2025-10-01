@@ -22,7 +22,7 @@
 
 ---
 
-## 🌟 Meus Portfólio
+## 🌟 Meu Portfólio
 <p align="center">
   <a href="https://portfolio-murilofeliciano.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfólio%20-000000?style=for-the-badge&logo=appveyor&logoColor=white" />
