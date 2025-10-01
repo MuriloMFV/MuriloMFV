@@ -1,6 +1,6 @@
 <h1 align="center">Olá, eu sou o Murilo Feliciano 🏄🧑‍💻</h1>
 <p align="center">
-  Estudante de ADS | Aspirante a Desenvolvedor Front-end | 
+  Estudante de ADS | Aspirante a Desenvolvedor Front-end | Buscando aprendizado todos os dias
 </p>
 
 ---
